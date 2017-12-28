@@ -1,5 +1,5 @@
 # Isomorphic Go
-This is the code repository for [Isomorphic Go](https://www.packtpub.com/virtualization-and-cloud/openstack-bootcamp?utm_source=github&utm_medium=repository&utm_content=9781788293303), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [Isomorphic Go](https://www.packtpub.com/web-development/isomorphic-go?utm_source=github&utm_medium=repository&utm_content=9781788394185), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 
 ## About the book
 Isomorphic Go is the methodology to create isomorphic web applications using the Go programming language. Isomorphic web applications have the capability to reuse code across environments, increasing the synergy between the web server and the web browser. This book is a hands-on guide that will show you how to build and deploy an Isomorphic Go web application.
