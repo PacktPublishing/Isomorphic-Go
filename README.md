@@ -25,8 +25,9 @@ The code will look like the following:
 ## Software requirements:
 | Chapter number | Software | Hardware | Operating Systems |
 |:--------------:|:--------:|:--------:|:-----------------:|
-| 2-11 | * go1.9.1 | Minimum 2 GB of RAM | Mac or Linux |
-|  | * Google Chrome or Mozilla Firefox  | Minimum 1 GB of Hard disk space |  |
+| 2-11 |  go1.9.1
+ Google Chrome or Mozilla Firefox | Minimum 2 GB of RAM 
+ Minimum 1 GB of Hard disk space | Mac or Linux |
 
 
 ### Note:
